@@ -1,0 +1,643 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.37/css/bootstrap-datetimepicker.min.css");
+
+.topNav {
+  background: #000000;
+}
+.footer {
+  background: #f43d4b;
+}
+.border-bottom {
+  width: 100%;
+}
+
+.homepageHeroImage {
+  background-image: url(/src/assets/img/heroimg.png);
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 40em;
+}
+
+.logoImage {
+  width: 9em;
+  height: auto;
+  cursor: pointer;
+}
+.rightSidebarIcon {
+  width: 3em;
+  border: 1.5px solid #000;
+  border-radius: 4em;
+  padding: 0.3em;
+}
+.rightSidebarIcon:last-child {
+  margin-left: 14px;
+}
+.pageHeight {
+  min-height: 45em;
+}
+.topHeaderStripe {
+  height: 1.7em;
+}
+#partner-with-boong {
+  /* background: url(../../images/footerBackground.jpg) no-repeat scroll center; */
+}
+#partner-with-boong h3 {
+  color: #fff;
+  margin: 1em 0em;
+  font-size: 1.4em;
+}
+#partner-with-boong p {
+  color: #fff;
+  margin: 1em 0em;
+  font-size: 1em;
+}
+.partnerWithUsRow {
+  margin-top: 2em;
+  border-top: 1px solid #ccc;
+}
+.actionBtnPartner {
+  text-align: right;
+}
+.ctaBtn {
+  background: #e82231;
+  font-size: 1em;
+  padding: 0.5em;
+  width: 13em;
+  margin: 2em;
+  text-transform: uppercase;
+  color: #fff;
+}
+.ctaBtn:hover {
+  background: #e82231;
+  font-weight: 600;
+}
+@media (max-width: 576px) {
+  #partner-with-boong h3 {
+    text-align: center;
+  }
+  #partner-with-boong p {
+    text-align: center;
+  }
+  .actionBtnPartner {
+    text-align: center;
+  }
+}
+#boonggTopFooter {
+  background: #e82231;
+}
+.leftLogoFooter img {
+  width: 35%;
+  height: auto;
+}
+.leftLogoFooter p {
+  font-size: 1em;
+  font-weight: 600;
+  color: #fff;
+  margin: 0px;
+}
+.rightFooterLinks ul {
+  margin: 0em;
+  padding: 0em;
+}
+.rightFooterLinks ul li {
+  list-style: none;
+  font-size: 0.7em;
+  color: #fff;
+  text-align: left;
+  cursor: pointer;
+}
+.rightFooterLinks ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+.rightFooterLinks ul li:hover {
+  color: #e6dfdf;
+}
+#footerSeoContent,
+#copyrightContent {
+  background: #f43d4b;
+}
+.boonggInfoFooter p {
+  font-size: 0.9em;
+  color: #fff;
+  text-align: left;
+  margin: 2em 0em 0em 0em;
+}
+#copyrightContent p {
+  font-size: 0.7em;
+  color: #fff;
+  margin: 0px;
+}
+
+#whychooseus {
+  margin: 3em auto;
+  background: #fff;
+  transform: skewY(-3deg);
+  -ms-transform: skewY(-3deg);
+  -webkit-transform: skewY(-3deg);
+  margin-top: -3em;
+}
+@media (max-width: 767px) {
+  #whychooseus {
+    margin-top: -3em;
+  }
+}
+#whychooseus .contentChooseus {
+  transform: skewY(3deg);
+  -ms-transform: skewY(3deg);
+  -webkit-transform: skewY(3deg);
+}
+#whychooseus h3 {
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin: 1em 0em 0em 0em;
+  width: 100%;
+}
+#whychooseus .sectionSubHeading {
+  text-align: right;
+  font-size: 1em;
+  color: #f43d4b;
+  margin: 0;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  #whychooseus .sectionSubHeading {
+    text-align: center;
+  }
+}
+.whyChooseUsBlock {
+  margin: 5em auto;
+  transform: skewY(3deg);
+  -ms-transform: skewY(3deg);
+  -webkit-transform: skewY(3deg);
+}
+.whyChooseUsBlock .chooseImage {
+  width: 6em;
+  height: 6em;
+}
+@media (max-width: 767px) {
+  .whyChooseUsBlock .chooseImage {
+    margin: 0 auto;
+  }
+}
+.whyChooseUsBlock img {
+  width: 100%;
+  height: auto;
+}
+.whyChooseUsBlock h4 {
+  margin: 1em auto;
+  font-size: 1.1em;
+}
+@media (max-width: 767px) {
+  .whyChooseUsBlock h4 {
+    text-align: center;
+  }
+}
+.whyChooseUsBlock p {
+  font-size: 0.9em;
+}
+@media (max-width: 576px) {
+  #whychooseus h3 {
+    text-align: center;
+  }
+  #whychooseus p {
+    text-align: center;
+  }
+}
+#howWeWork {
+  margin: 3em auto;
+  background: #f43d4b;
+  transform: skewY(3deg);
+  -ms-transform: skewY(3deg);
+  -webkit-transform: skewY(3deg);
+  margin-top: -15px;
+  padding: 1em;
+}
+#howWeWork .contentHowitWork {
+  transform: skewY(-3deg);
+  -ms-transform: skewY(-3deg);
+  -webkit-transform: skewY(-3deg);
+}
+#howWeWork h3 {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin: 1em 0em 0em 0em;
+  color: #fff;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  #howWeWork h3 {
+    text-align: center;
+  }
+}
+#howWeWork .sectionSubHeading {
+  text-align: left;
+  font-size: 1em;
+  color: #fff;
+  margin: 0;
+  width: 100%;
+}
+.howitWorkBlock {
+  margin: 5em auto;
+  transform: skewY(-3deg);
+  -ms-transform: skewY(-3deg);
+  -webkit-transform: skewY(-3deg);
+}
+.howitWorkBlock .chooseImage {
+  width: 6em;
+  height: 6em;
+  margin: 0 auto 1.5em;
+}
+.howitWorkBlock img {
+  width: 100%;
+  height: auto;
+}
+.howitWorkBlock h4 {
+  margin: 1em auto;
+  font-size: 1.1em;
+  color: #fff;
+}
+.howitWorkBlock p {
+  font-size: 0.9em;
+  color: #fff;
+  text-align: center;
+  padding: 0 4em;
+}
+@media (max-width: 576px) {
+  #howWeWork h3 {
+    text-align: center;
+  }
+  #howWeWork .sectionSubHeading {
+    text-align: center;
+  }
+}
+#ourBrand {
+  margin: 3em auto;
+  background: #fff;
+}
+#ourBrand h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin: 1em 0em 0em 0em;
+}
+#ourBrand .sectionSubHeading {
+  text-align: center;
+  font-size: 1em;
+  margin: 0;
+}
+.fourImgGrid {
+  margin: 2em 0em;
+}
+.fourImgGrid .chooseImage {
+  width: 70%;
+  height: 11em;
+}
+.fourImgGrid .chooseImage img {
+  width: 100%;
+  height: auto;
+}
+.fourImgGrid .chooseImage img:hover {
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.fourImgGrid h4 {
+  margin: 0;
+  font-size: 1em;
+  letter-spacing: normal;
+  text-transform: none;
+  color: #f43d4b;
+}
+.fourImgGrid p {
+  margin: 0;
+  font-size: 12px;
+}
+.lastrowHomeListing {
+  margin: 2em 6em;
+}
+.lastrowHomeListing .chooseImage {
+  width: 70%;
+  height: 12em;
+}
+.lastrowHomeListing .chooseImage img {
+  width: 100%;
+  height: auto;
+}
+.lastrowHomeListing .chooseImage img:hover {
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.lastrowHomeListing h4 {
+  margin: 0;
+  font-size: 1em;
+  letter-spacing: normal;
+  text-transform: none;
+  color: #f43d4b;
+}
+.lastrowHomeListing p {
+  margin: 0;
+  font-size: 12px;
+}
+@media (max-width: 576px) {
+  .fourImgGrid .chooseImage {
+    width: 100%;
+    height: 20em;
+  }
+  .lastrowHomeListing {
+    margin: 2em 0em;
+  }
+  .lastrowHomeListing .chooseImage {
+    width: 100%;
+    height: 20em;
+  }
+}
+
+#queryBlock img {
+  width: 100%;
+  margin: 5em auto;
+}
+
+#queryBlock .infoBlock {
+  margin: 5em auto;
+  text-align: left;
+}
+
+@media (max-width: 576px) {
+  #queryBlock .infoBlock {
+    margin: 5em auto;
+    text-align: center;
+  }
+}
+
+.searchBlockHome {
+  margin: 4em 8em;
+}
+
+@media (max-width: 576px) {
+  .searchBlockHome {
+    margin: 4em 0em;
+  }
+}
+
+.searchBlockHome h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 600;
+  color: #fff;
+  margin: 1em 0 0.5em 0;
+  text-shadow: 3px 4px 6px #000;
+}
+
+.searchBlockHome p {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.heroboxRow .homeHeroBox {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.homeHeroBox {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1em;
+  border-radius: 9px;
+}
+
+.searchbtn {
+  margin: 1.2em auto;
+  text-align: center;
+}
+.searchbtn button {
+  margin: 0 auto;
+}
+.searchInputHeading {
+  color: #ffffff;
+  font-size: 0.8em;
+}
+
+.SearchTitle {
+  color: #ffffff;
+  font-size: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+.heroboxRow .nav-tabs {
+  border: 1px solid #fff;
+  border-radius: 8px 8px 0px 0px;
+  width: 50%;
+  margin: 0 auto;
+  background: #fff;
+}
+@media (max-width: 576px) {
+  .heroboxRow .nav-tabs {
+    width: 80%;
+  }
+}
+
+.heroboxRow .nav-tabs li {
+  width: 33.33%;
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #000;
+}
+
+.heroboxRow .nav-tabs li a {
+  color: #000;
+}
+
+.heroboxRow .nav-tabs li a.active {
+  color: #dc3545;
+  border: none;
+}
+
+.social-icons a {
+  color: #fff;
+}
+
+.boonggAssuredBadge {
+  width: 100%;
+  height: auto;
+}
+.searchBikeName {
+  /* font-size: 0.7em; */
+  text-align: left;
+  font-weight: 600;
+  padding: 1em;
+  margin: 0;
+}
+.boonggAssuredBadge {
+  width: 100% !important;
+  height: auto !important;
+}
+.noSideSpace {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.choosePackageLocation {
+  font-size: 12px;
+  text-align: left;
+  font-weight: 600;
+  color: #000;
+  margin: 0.2em;
+}
+.borderTopSearch {
+  border-top: 1px solid #e5e5e5;
+  padding: 0.2em 0em;
+}
+.getTariff {
+  font-size: 11px;
+  text-align: right;
+  color: #333;
+  margin: 0.2em;
+}
+.priceBlock {
+  padding: 0.5em;
+  border: 1px solid #333;
+  border-radius: 3px;
+  margin: 0em 0.2em;
+}
+.bookNowBtnSearch {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0.8em;
+  padding: 0.5em 3em;
+}
+
+.bookNowBtnSearch button {
+  width: 100%;
+}
+
+.imageBikeSearch {
+  width: 100% !important;
+  height: auto !important;
+}
+.oldPrice {
+  font-size: 13px;
+  text-decoration: line-through;
+  color: #727272;
+  text-align: right;
+  border-bottom: 1px solid #ccc;
+}
+.oldPrice .locationSearchbike {
+  float: left;
+  font-size: 12px;
+  margin: 0px;
+  color: #000;
+  font-weight: 600;
+}
+.soldOutText {
+  margin: 0px;
+  font-size: 19px;
+  padding: 10px;
+  font-weight: 600;
+  color: #e82231;
+}
+.actualPrice {
+  font-size: 18px;
+  font-weight: 600;
+  color: #e82231;
+  text-align: right;
+}
+.activeSearchPack {
+  border: 1.5px solid #e82231;
+}
+.activeSearchPack .actualPrice {
+  color: #e82231;
+}
+.bikeImagePlace {
+  min-height: 10em;
+  padding: 0.5em;
+  width: 100%;
+}
+.tariffIcon {
+  display: inline-block;
+  float: right;
+  width: auto;
+  height: 13px !important;
+  padding: 0px 0px 0px 8px;
+}
+.availableIcon {
+  display: inline-block;
+  width: auto;
+  height: 13px !important;
+  padding: 0px 8px 0px 0px;
+}
+.cartForgotMessage {
+  font-size: 10px;
+  margin: 5px auto;
+}
+.continueShoppingblock {
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid #ccc;
+}
+.continueShoppingblock .contShoppingImg {
+  width: 55%;
+  height: auto;
+}
+.cartCheckoutBtn {
+  margin-bottom: 12em;
+}
+.item-name {
+  padding: 1em 0em;
+  border-bottom: 1px solid #ccc;
+}
+.item-name p {
+  font-size: 12px;
+  font-weight: 600;
+  margin: 0;
+}
+.item-name p button {
+  float: right;
+}
+.bikeNumberAvailable {
+  font-size: 12px;
+  margin-top: 1em;
+  border-top: 1px solid #ccc;
+}
+.bikeFliterOptions {
+  background-color: #e5e3e3;
+  margin: 1em 0em;
+  padding: 1em;
+}
+.filter-brand p {
+  margin: 0px;
+  font-size: 10px;
+  font-weight: 600;
+}
+@media (max-width: 576px) {
+  .marginTopMobile {
+    margin-top: 6em;
+  }
+}
+@media (max-width: 576px) {
+  #btn-buy-search {
+    font-size: 0.7em;
+  }
+}
+
+.searchBlock {
+  background: #e5e3e3;
+  padding: 2em 1em;
+  margin: 1em;
+}
+
+.searchBlock .bike-item {
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 1em 0em;
+  padding: 1em 0em;
+}
