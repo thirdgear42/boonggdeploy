@@ -75,7 +75,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Kothrud",
                     quantity: 1,
                     rentCalculated: 4750,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Street 150.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Street 150.png"
                 },
                 {
                     key: "5be26bfb33ac694839004afa",
@@ -86,7 +86,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 3,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Activa 110cc.png"
+                    thumbUrl: "./assets/img/bikes/Activa 110cc.png"
                 },
                 {
                     key: "5be26dcc33ac694839004afd",
@@ -97,7 +97,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 3,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Activa 3G.png"
+                    thumbUrl: "./assets/img/bikes/Activa 3G.png"
                 },
                 {
                     key: "5be41e3f33ac694839004b10",
@@ -108,7 +108,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Kothrud",
                     quantity: 2,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/SPLENDOR PRO.png"
+                    thumbUrl: "./assets/img/bikes/SPLENDOR PRO.png"
                 },
                 {
                     key: "5be57c6333ac694839004b20",
@@ -119,7 +119,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Kothrud",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Activa 3G.png"
+                    thumbUrl: "./assets/img/bikes/Activa 3G.png"
                 },
                 {
                     key: "5be913cb33ac694839004b32",
@@ -130,7 +130,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 10,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Activa 3G.png"
+                    thumbUrl: "./assets/img/bikes/Activa 3G.png"
                 },
                 {
                     key: "5be9177733ac694839004b37",
@@ -141,7 +141,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 1,
                     rentCalculated: 3700,
-                    thumbUrl: "./src/assets/img/bikes/GIXXER.png"
+                    thumbUrl: "./assets/img/bikes/GIXXER.png"
                 },
                 {
                     key: "5bf0487580f0932bf2d6ea5a",
@@ -152,7 +152,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Pulsar 150 AS.png"
+                    thumbUrl: "./assets/img/bikes/Pulsar 150 AS.png"
                 },
                 {
                     key: "5be9183f33ac694839004b3a",
@@ -163,7 +163,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 6,
                     rentCalculated: 5100,
-                    thumbUrl: "./src/assets/img/bikes/Pulsar 220.png"
+                    thumbUrl: "./assets/img/bikes/Pulsar 220.png"
                 },
                 {
                     key: "5be91cbc33ac694839004b3f",
@@ -174,7 +174,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/ACCESS 125.png"
+                    thumbUrl: "./assets/img/bikes/ACCESS 125.png"
                 },
                 {
                     key: "5be91d4533ac694839004b42",
@@ -185,7 +185,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 12,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Activa 110cc.png"
+                    thumbUrl: "./assets/img/bikes/Activa 110cc.png"
                 },
                 {
                     key: "5be921b333ac694839004b4d",
@@ -196,7 +196,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 1,
                     rentCalculated: 4400,
-                    thumbUrl: "./src/assets/img/bikes/Pulsar 180.png"
+                    thumbUrl: "./assets/img/bikes/Pulsar 180.png"
                 },
                 {
                     key: "5be923e333ac694839004b50",
@@ -207,7 +207,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 3,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/MAESTRO.png"
+                    thumbUrl: "./assets/img/bikes/MAESTRO.png"
                 },
                 {
                     key: "5be9262733ac694839004b53",
@@ -218,7 +218,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 12,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/JUPITER.png"
+                    thumbUrl: "./assets/img/bikes/JUPITER.png"
                 },
                 {
                     key: "5be9287333ac694839004b5a",
@@ -229,7 +229,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 6,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/DUET.png"
+                    thumbUrl: "./assets/img/bikes/DUET.png"
                 },
                 {
                     key: "5be92a7633ac694839004b61",
@@ -240,7 +240,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 2,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/PLEASURE.png"
+                    thumbUrl: "./assets/img/bikes/PLEASURE.png"
                 },
                 {
                     key: "5be953ff33ac694839004b8a",
@@ -251,7 +251,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 2,
                     rentCalculated: 5100,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Cruise 220.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Cruise 220.png"
                 },
                 {
                     key: "5be9548b33ac694839004b8f",
@@ -262,7 +262,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Honda Activa-i.png"
+                    thumbUrl: "./assets/img/bikes/Honda Activa-i.png"
                 },
                 {
                     key: "5befe56480f0932bf2d6ea23",
@@ -273,7 +273,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 1,
                     rentCalculated: 3700,
-                    thumbUrl: "./src/assets/img/bikes/Pulsar 150.png"
+                    thumbUrl: "./assets/img/bikes/Pulsar 150.png"
                 },
                 {
                     key: "5befee2080f0932bf2d6ea2c",
@@ -284,7 +284,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 2,
                     rentCalculated: 5100,
-                    thumbUrl: "./src/assets/img/bikes/Pulsar 220.png"
+                    thumbUrl: "./assets/img/bikes/Pulsar 220.png"
                 },
                 {
                     key: "5befeefa80f0932bf2d6ea2f",
@@ -295,7 +295,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 2,
                     rentCalculated: 4400,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Street 150.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Street 150.png"
                 },
                 {
                     key: "5bf0321680f0932bf2d6ea42",
@@ -306,7 +306,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 2,
                     rentCalculated: 5100,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Cruise 220.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Cruise 220.png"
                 },
                 {
                     key: "5bf033ec80f0932bf2d6ea45",
@@ -317,7 +317,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 2,
                     rentCalculated: 5100,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Street 220.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Street 220.png"
                 },
                 {
                     key: "5bf0378580f0932bf2d6ea4c",
@@ -328,7 +328,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 2,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Discover 125cc.png"
+                    thumbUrl: "./assets/img/bikes/Discover 125cc.png"
                 },
                 {
                     key: "5bf0397180f0932bf2d6ea51",
@@ -339,7 +339,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/JUPITER.png"
+                    thumbUrl: "./assets/img/bikes/JUPITER.png"
                 },
                 {
                     key: "5c2628db30d36e5e178368c8",
@@ -350,7 +350,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/GLAMOUR.png"
+                    thumbUrl: "./assets/img/bikes/GLAMOUR.png"
                 },
                 {
                     key: "5c2c6c374643865fdf6147af",
@@ -361,7 +361,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 3,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Activa 4G.png"
+                    thumbUrl: "./assets/img/bikes/Activa 4G.png"
                 },
                 {
                     key: "5c2c7f124643865fdf6147b5",
@@ -372,7 +372,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 3,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Dio.png"
+                    thumbUrl: "./assets/img/bikes/Dio.png"
                 },
                 {
                     key: "5c2c8f9a4643865fdf6147d2",
@@ -383,7 +383,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Avenger Street 220.png"
+                    thumbUrl: "./assets/img/bikes/Avenger Street 220.png"
                 },
                 {
                     key: "5c2c90984643865fdf6147d9",
@@ -394,7 +394,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Discover 125cc.png"
+                    thumbUrl: "./assets/img/bikes/Discover 125cc.png"
                 },
                 {
                     key: "5c2c92614643865fdf6147e4",
@@ -405,7 +405,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/CB HORNET.png"
+                    thumbUrl: "./assets/img/bikes/CB HORNET.png"
                 },
                 {
                     key: "5c2c92ab4643865fdf6147e7",
@@ -416,7 +416,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/NEO.png"
+                    thumbUrl: "./assets/img/bikes/NEO.png"
                 },
                 {
                     key: "5c2f397177109c6b09ba9819",
@@ -427,7 +427,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/ACCESS 125.png"
+                    thumbUrl: "./assets/img/bikes/ACCESS 125.png"
                 },
                 {
                     key: "5c332275acfc997b12558c50",
@@ -438,7 +438,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/DUET.png"
+                    thumbUrl: "./assets/img/bikes/DUET.png"
                 },
                 {
                     key: "5c332475acfc997b12558c55",
@@ -449,7 +449,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Honda Activa-i.png"
+                    thumbUrl: "./assets/img/bikes/Honda Activa-i.png"
                 },
                 {
                     key: "5c33280bacfc997b12558c61",
@@ -460,7 +460,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Balewadi",
                     quantity: 1,
                     rentCalculated: 2650,
-                    thumbUrl: "./src/assets/img/bikes/Dio.png"
+                    thumbUrl: "./assets/img/bikes/Dio.png"
                 },
                 {
                     key: "5c3498c9acfc997b12558c81",
@@ -471,7 +471,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 2,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/Activa 125cc.png"
+                    thumbUrl: "./assets/img/bikes/Activa 125cc.png"
                 },
                 {
                     key: "5c4c6a91ae561a375099af46",
@@ -482,7 +482,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "",
                     quantity: 1,
                     rentCalculated: 0,
-                    thumbUrl: "./src/assets/img/bikes/APACHE RTR 160.png"
+                    thumbUrl: "./assets/img/bikes/APACHE RTR 160.png"
                 },
                 {
                     key: "5be91ed933ac694839004b48",
@@ -493,7 +493,7 @@ var OthersComponent = /** @class */ (function () {
                     address: "Hinjewadi",
                     quantity: 3,
                     rentCalculated: 3700,
-                    thumbUrl: "./src/assets/img/bikes/APACHE RTR 160.png"
+                    thumbUrl: "./assets/img/bikes/APACHE RTR 160.png"
                 }
             ],
             totalQuantity: 101,
